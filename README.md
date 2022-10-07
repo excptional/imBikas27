@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1200/0*dVlRfvc6b66esZkb)
 <h1 align="center">Hi 👋, I'm Bikash Dutta</h1>
 <h3 align="center">A passionate Application Developer from India</h3>
-<img align="right" alt="Coding" width="500" src="https://comit.rs/wp-content/uploads/2020/06/Design.svg">
+<img align="right" alt="Coding" width="400" src="https://comit.rs/wp-content/uploads/2020/06/Design.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imBikas27&label=Profile%20views&color=0e75b6&style=flat" alt="imBikas27" /> </p>
 
