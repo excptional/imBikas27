@@ -14,7 +14,7 @@
 
 - 📫 How to reach me  **bd27official@gmail.com**
 
-- ⚡ Fun fact  **I have a good humor, at least I think so**
+- ⚡ Fun fact  **Beside coding I have a huge interest on sports specially cricket, MMA and wrestling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
