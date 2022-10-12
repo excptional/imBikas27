@@ -14,7 +14,7 @@
 
 - 📫 How to reach me  **bd27official@gmail.com**
 
-- ⚡ Fun fact  **I have a good humor, at least I believed that**
+- ⚡ Fun fact  **I have a good humor, at least I think so**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
