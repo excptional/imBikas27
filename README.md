@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://comit.rs/wp-content/uploads/2020/06/Design.svg">
 
 
-- 🔭 I’m currently working on [Woof_UIT](https://github.com/imBikas27/Woof) and [DivyaPay_KIIT](https://github.com/imBikas27/DivyaPay_KIIT)
+- 🔭 I’m currently working on [Woof](https://github.com/imBikas27/Woof) and [DivyaPay_KIIT](https://github.com/imBikas27/DivyaPay_KIIT)
 
 - 🌱 I’m currently learning  **Android Architecture Pattern, Backend Development**
 
