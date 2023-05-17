@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://comit.rs/wp-content/uploads/2020/06/Design.svg">
 
 
-- 🔭 I’m currently working on [Woof](https://github.com/imBikas27/Woof) and [DivyaPay](https://github.com/imBikas27/DivyaPay)
+- 🔭 I’m currently working on [Trigredge](https://github.com/imBikas27/Trigeredge_Digital_Currency_Project)
 
 - 🌱 I’m currently learning  **Android Architecture Pattern, Web3 development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imBikas27](https://github.com/imBikas27)
 
-- 💬 Ask me about  **Android Development, Java, Kotlin**
+- 💬 Ask me about  **Android Development, Abdroid Architecture, UI/UX, Firebase Java, Kotlin**
 
 - 📫 How to reach me  **bd27official@gmail.com**
 
