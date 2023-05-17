@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/imBikas27](https://github.com/imBikas27)
 
-- 💬 Ask me about  **Android Development, Abdroid Architecture, UI/UX, Firebase Java, Kotlin**
+- 💬 Ask me about  **Android Development, Abdroid Architecture, UI/UX, Firebase, Java, Kotlin**
 
 - 📫 How to reach me  **bd27official@gmail.com**
 
