@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://comit.rs/wp-content/uploads/2020/06/Design.svg">
 
 
-- 🔭 I’m currently working on [Trigredge](https://github.com/imBikas27/Trigeredge_Digital_Currency_Project)
+- 🔭 I’m currently working on [PayWala](https://github.com/imBikas27/Trigeredge_Digital_Currency_Project)
 
 - 🌱 I’m currently learning  **Android Architecture Pattern, Web3 development**
 
