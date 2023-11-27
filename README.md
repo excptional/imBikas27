@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [PayWala](https://github.com/excptional/Trigeredge_Digital_Currency_Project)
 
-- 🌱 I’m currently learning  **Android Architecture Pattern, Web3 development**
+- 🌱 I’m currently learning  **Spring Framework, MongoDB and TensorFlow Lite**
 
 - 👨‍💻 All of my projects are available at [https://github.com/excptional](https://github.com/excptional)
 
