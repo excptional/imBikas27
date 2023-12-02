@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://comit.rs/wp-content/uploads/2020/06/Design.svg">
 
 
-- 🔭 I’m currently working on [PayWala](https://github.com/excptional/Trigeredge_Digital_Currency_Project)
+- 🔭 I’m currently working on [PayWala](https://github.com/excptional/Paywala-A-digital-currency-wallet-application-integrated-with-ONDC)
 
 - 🌱 I’m currently learning  **Spring Framework, MongoDB and TensorFlow Lite**
 
