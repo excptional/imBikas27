@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/excptional](https://github.com/excptional)
 
-- 💬 Ask me about  **Android Development, Abdroid Architecture, UI/UX, Firebase, Java, Kotlin**
+- 💬 Ask me about  **Android Development, Android Architecture, UI/UX, Firebase, Java, Kotlin**
 
 - 📫 How to reach me  **bd27official@gmail.com**
 
