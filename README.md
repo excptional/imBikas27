@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [PayWala](https://github.com/excptional/Paywala-A-digital-currency-wallet-application-integrated-with-ONDC)
 
-- 🌱 I’m currently learning  **Spring Framework, MongoDB and TensorFlow Lite**
+- 🌱 I’m currently learning  **Smart Contracts using Solidity, BlockChain Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/excptional](https://github.com/excptional)
 
-- 💬 Ask me about  **Android Development, Android Architecture, UI/UX, Firebase, Java, Kotlin**
+- 💬 Ask me about  **Android Development, Android Architecture, Solidity, Ethereum, NFT, UI/UX, Firebase, Java, Kotlin**
 
 - 📫 How to reach me  **bd27official@gmail.com**
 
